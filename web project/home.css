@@ -1,0 +1,58 @@
+body{background-image: url(/Noha/photo/pexels-janko-ferlic-590493.jpg);
+    background-size: contain;
+    background-attachment: fixed;
+    background-color: #42392cad;
+    /* background-position: center; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-blend-mode:darken;
+
+}
+p {
+    text-align: center;
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight: bolder;
+font: optional;
+margin-bottom: auto;
+}h1 {
+    color: rgba(226, 221, 217, 0.842);
+    text-shadow: 0px 0px 20px rgb(223, 93, 6), 0px 0px 20px rgb(80, 16, 16);
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+
+}h2 {
+    color: rgba(226, 221, 217, 0.842);
+    text-shadow: 0px 0px 20px rgb(223, 93, 6), 0px 0px 20px rgb(80, 16, 16);
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+}button{
+
+    border: none;
+    outline: none;
+    height: 40px;
+    border-bottom: 1px solid #fff;
+    background: rgb(39, 13, 13);
+ 
+    color: #fff;
+    font-size: 30px;
+    border-radius: 40px ;
+ 
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    ;
+}button:hover{
+    cursor: pointer;
+    background-color: rgb(173, 55, 19);
+    
+}
+p{
+   position: relative;
+}
